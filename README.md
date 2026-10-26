@@ -63,4 +63,4 @@ streamlit run app.py
 Deployed on **Streamlit Community Cloud** from this GitHub repository (main branch, `app.py`).
  
 ## Author
-Muhammad Mubashar Murtaza , FA24-BED-056
+Muhammad Mubashar Murtaza 
